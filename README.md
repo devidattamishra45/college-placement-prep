@@ -359,15 +359,34 @@ We believe that knowledge becomes more valuable when it is shared and improved b
 
 ## 👥 Contributors
 
-This project is built by students and contributors from the community.
+This project is built by students, developers, and contributors from our college community.
 
-Every meaningful contribution is appreciated.
+Every contribution helps make placement preparation easier for the next student.
 
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/Contribute-Join%20the%20Project-blue?style=for-the-badge" alt="Contribute">
+### 🌟 Our Contributors
+
+<a href="https://github.com/devidattamishra45/college-placement-prep/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=devidattamishra45/college-placement-prep" />
 </a>
 
----
+### 🤝 How You Can Contribute
+
+You can contribute by:
+
+- 📝 Adding a new aptitude question
+- 💻 Adding a coding problem and solution
+- 🧠 Adding a DSA explanation
+- 🎓 Sharing a college-specific question
+- 🏢 Adding a verified company question
+- 📚 Creating or improving a cheat sheet
+- 🐛 Correcting an existing solution
+- 💡 Suggesting improvements
+- 🔍 Finding duplicate or incorrect questions
+- 📖 Improving documentation
+
+> **You don't need to be an expert to contribute. If you know something useful, document it and help the next student.**
+
+[View all contributors →](https://github.com/devidattamishra45/college-placement-prep/graphs/contributors)
 
 ## 📜 License
 

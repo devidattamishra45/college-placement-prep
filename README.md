@@ -363,11 +363,7 @@ This project is built by students, developers, and contributors from our college
 
 Every contribution helps make placement preparation easier for the next student.
 
-### 🌟 Our Contributors
 
-<a href="https://github.com/devidattamishra45/college-placement-prep/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=devidattamishra45/college-placement-prep" />
-</a>
 
 ### 🤝 How You Can Contribute
 
